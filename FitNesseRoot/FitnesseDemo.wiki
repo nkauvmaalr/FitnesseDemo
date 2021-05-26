@@ -8,3 +8,5 @@ Suite
 [[Github Response][.FitnesseDemo.GithubResponse]]
 [[Login Dialog Driver][.FitnesseDemo.LoginDialogDriver]]
 [[Bowling][.FitnesseDemo.Bowling]]
+[[Demo Test][.FitnesseDemo.DemoTest]]
+
