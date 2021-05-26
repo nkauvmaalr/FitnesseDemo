@@ -1,0 +1,987 @@
+{
+  "id": "92a4d681-cd44-4ce3-93ab-408569ee7a12",
+  "uidx": "7d1e08e3.05b3.45b1.8512.9a868153568fsVw5TWbNId",
+  "context": "DEFAULT",
+  "cartCount": 2,
+  "displayCount": 2,
+  "products": [
+    {
+      "itemId": 1621812122,
+      "skuId": 37684698,
+      "styleId": 10941384,
+      "title": "Roadster Men Black Solid Round Neck T-shirt",
+      "image": {},
+      "landingPageUrl": "Tshirts/Roadster/Roadster-Men-Black-Solid-Round-Neck-T-shirt/10941384/buy",
+      "selectedSku": 37684698,
+      "quantity": 1,
+      "selectedSeller": {
+        "id": 32,
+        "name": "Truenet Commerce",
+        "partnerId": 4118,
+        "supplyType": "ON_HAND",
+        "availableCount": 10,
+        "availableInWarehouses": "28,207,303,309,396"
+      },
+      "availableSizeMap": [
+        {
+          "size": "S",
+          "unifiedSize": "S",
+          "available": true,
+          "skuId": 37684694,
+          "storeId": 2297,
+          "supplyType": "ON_HAND",
+          "availableCount": 10,
+          "availableInWarehouses": "28,207,309,396",
+          "seller": {
+            "id": 32,
+            "name": "Truenet Commerce",
+            "partnerId": 4118,
+            "availableCount": 0
+          }
+        },
+        {
+          "size": "M",
+          "unifiedSize": "M",
+          "available": true,
+          "skuId": 37684696,
+          "storeId": 2297,
+          "supplyType": "ON_HAND",
+          "availableCount": 10,
+          "availableInWarehouses": "28,207,303,396",
+          "seller": {
+            "id": 32,
+            "name": "Truenet Commerce",
+            "partnerId": 4118,
+            "availableCount": 0
+          }
+        },
+        {
+          "size": "L",
+          "unifiedSize": "L",
+          "available": true,
+          "skuId": 37684698,
+          "storeId": 2297,
+          "supplyType": "ON_HAND",
+          "availableCount": 10,
+          "availableInWarehouses": "28,207,303,309,396",
+          "seller": {
+            "id": 32,
+            "name": "Truenet Commerce",
+            "partnerId": 4118,
+            "availableCount": 0
+          }
+        },
+        {
+          "size": "XL",
+          "unifiedSize": "XL",
+          "available": true,
+          "skuId": 37684700,
+          "storeId": 2297,
+          "supplyType": "ON_HAND",
+          "availableCount": 10,
+          "availableInWarehouses": "28,303,396",
+          "seller": {
+            "id": 32,
+            "name": "Truenet Commerce",
+            "partnerId": 4118,
+            "availableCount": 0
+          }
+        }
+      ],
+      "availableSizes": [
+        {
+          "size": "S",
+          "unifiedSize": "S",
+          "available": true,
+          "skuId": 37684694,
+          "storeId": 2297,
+          "availableCount": 10,
+          "availableSellers": [
+            {
+              "seller": {
+                "id": 32,
+                "name": "Truenet Commerce",
+                "partnerId": 4118,
+                "supplyType": "ON_HAND",
+                "availableCount": 10,
+                "availableInWarehouses": "28,207,309,396"
+              },
+              "price": {
+                "mrp": 799.0,
+                "price": 439.0,
+                "discountText": "(45% OFF)"
+              }
+            }
+          ]
+        },
+        {
+          "size": "M",
+          "unifiedSize": "M",
+          "available": true,
+          "skuId": 37684696,
+          "storeId": 2297,
+          "availableCount": 10,
+          "availableSellers": [
+            {
+              "seller": {
+                "id": 32,
+                "name": "Truenet Commerce",
+                "partnerId": 4118,
+                "supplyType": "ON_HAND",
+                "availableCount": 10,
+                "availableInWarehouses": "28,207,303,396"
+              },
+              "price": {
+                "mrp": 799.0,
+                "price": 439.0,
+                "discountText": "(45% OFF)"
+              }
+            }
+          ]
+        },
+        {
+          "size": "L",
+          "unifiedSize": "L",
+          "available": true,
+          "skuId": 37684698,
+          "storeId": 2297,
+          "availableCount": 10,
+          "availableSellers": [
+            {
+              "seller": {
+                "id": 32,
+                "name": "Truenet Commerce",
+                "partnerId": 4118,
+                "supplyType": "ON_HAND",
+                "availableCount": 10,
+                "availableInWarehouses": "28,207,303,309,396"
+              },
+              "price": {
+                "mrp": 799.0,
+                "price": 439.0,
+                "discountText": "(45% OFF)"
+              }
+            }
+          ]
+        },
+        {
+          "size": "XL",
+          "unifiedSize": "XL",
+          "available": true,
+          "skuId": 37684700,
+          "storeId": 2297,
+          "availableCount": 10,
+          "availableSellers": [
+            {
+              "seller": {
+                "id": 32,
+                "name": "Truenet Commerce",
+                "partnerId": 4118,
+                "supplyType": "ON_HAND",
+                "availableCount": 10,
+                "availableInWarehouses": "28,303,396"
+              },
+              "price": {
+                "mrp": 799.0,
+                "price": 439.0,
+                "discountText": "(45% OFF)"
+              }
+            }
+          ]
+        }
+      ],
+      "appliedCoupons": [],
+      "additionalInfo": {
+        "groupId": 0,
+        "brand": "Roadster",
+        "articleTypeId": 90,
+        "articleTypeName": "Tshirts",
+        "productTypeId": 0,
+        "productStyleType": "P",
+        "gender": "Men",
+        "isFineJewellery": false,
+        "isHazmat": true,
+        "isFragile": false,
+        "isMyntsEnabled": true,
+        "tryAndBuyEnabled": true,
+        "pickupEnabled": true,
+        "codEnabled": true,
+        "isExchangeable": true,
+        "large": false,
+        "comforter": false,
+        "personalised": false,
+        "returnable": true,
+        "preOrderEnabled": false,
+        "preLaunchProduct": false,
+        "hsnCode": "61091000",
+        "packagingType": "NORMAL",
+        "freeItem": false,
+        "couponApplicable": false,
+        "systemAttributes": [
+          {
+            "attribute": "SA_XT_PICWORTHY",
+            "value": "PIC-WORTHY"
+          },
+          {
+            "attribute": "Custom_Label2",
+            "value": "SA_FD_Label2"
+          },
+          {
+            "attribute": "SA_XT_BESTSELLER",
+            "value": "BESTSELLER"
+          }
+        ],
+        "returnPeriod": 30
+      },
+      "price": {
+        "discounts": [
+          {
+            "name": "discount",
+            "value": 360.0,
+            "discountDetails": {
+              "unit": "PERCENT",
+              "value": 45.0
+            },
+            "effectiveDiscountValue": 0.0,
+            "effectiveDiscountDetails": {
+              "unit": "PERCENT",
+              "value": 0.0
+            }
+          },
+          {
+            "name": "coupon",
+            "value": 0.0,
+            "effectiveDiscountValue": 0.0
+          },
+          {
+            "name": "bag",
+            "value": 0.0,
+            "effectiveDiscountValue": 0.0
+          },
+          {
+            "name": "personalised",
+            "value": 0.0,
+            "discountDetails": {
+              "unit": "PERCENT",
+              "value": 0.0
+            },
+            "effectiveDiscountValue": 0.0
+          }
+        ],
+        "charges": [
+          {
+            "name": "tax",
+            "value": 0.0,
+            "chargeId": 5
+          },
+          {
+            "name": "mrp",
+            "value": 799.0,
+            "chargeId": 7
+          }
+        ],
+        "instruments": [
+          {
+            "name": "loyaltypoints",
+            "value": 0.0
+          },
+          {
+            "name": "giftcard",
+            "value": 0.0
+          }
+        ],
+        "mrp": 799.0,
+        "price": 439.0,
+        "effectiveExchangeItemPrice": 0.0,
+        "effectiveTotalPrice": 439.0,
+        "subTotalPrice": 439.0,
+        "priceWithInstruments": 439.0,
+        "loyaltyPointsConversionFactor": 1.0,
+        "unitAdditionalCharge": 0.0,
+        "unitDiscount": 360.0,
+        "unitCouponDiscount": 0.0,
+        "unitBagDiscount": 0.0,
+        "unitMrp": 799.0,
+        "loyaltyPointsUsage": 0.0,
+        "unitGiftCardUsage": 0.0,
+        "unitCashbackUsage": 0.0,
+        "totalSavings": 360.0,
+        "myntsDiscount": 0.0,
+        "unitPersonalisedDiscount": 0.0
+      },
+      "taxPercentage": 0.0,
+      "discountDataEntry": {
+        "discountId": 43744004,
+        "id": "Flat_Cart_P",
+        "discountRuleId": 44185588,
+        "discountRuleHistoryId": 0,
+        "discountType": 1,
+        "discountAmount": 360.0,
+        "discountPercent": 45.0,
+        "discountText": {
+          "text": "45% Off",
+          "hasFreeItem": false
+        },
+        "discountFunding": "category",
+        "fundingPercentage": 0.0,
+        "discountLimit": 0.0,
+        "isDiscountRuleApplied": true,
+        "isDiscountedProduct": true,
+        "discountQuantity": 1,
+        "params": {}
+      },
+      "itemAddTime": "May 24, 2021, 1:46:42 PM",
+      "conflict": {
+        "state": "NOT_CONFLICTED",
+        "oldPrice": 439.0,
+        "conflictTime": "Jan 1, 1970, 5:30:00 AM",
+        "price": {
+          "state": "NOT_CONFLICTED",
+          "oldPrice": 439.0,
+          "conflictTime": "Jan 1, 1970, 5:30:00 AM"
+        },
+        "seller": {
+          "state": "NOT_CONFLICTED"
+        }
+      },
+      "activeSlot": 0,
+      "urgencyEntry": {
+        "pdpCount": 691,
+        "pdpCountPtile": 99.97274553602787,
+        "addToCollectionCount": 25966,
+        "addToCollectionCountPtile": 99.99931890280482,
+        "addToCartCount": 1888,
+        "addToCartCountPtile": 99.99978313059658,
+        "quantitySold": 284,
+        "quantitySoldPtile": 99.99793974066756
+      },
+      "tryAndBuyOpted": false,
+      "virtualBundleConflict": false,
+      "styleOffers": [],
+      "valueReturnApplicableDiscount": 0.0,
+      "valueReturnOpted": false,
+      "productServiceabilityInfo": {
+        "pincodeInfo": {
+          "serviceable": true,
+          "shippingEstimatesInDays": {
+            "standard": 5,
+            "valueShipping": 10
+          }
+        },
+        "tryNBuyAvailable": false,
+        "alterationAvailable": false
+      },
+      "selectedForCheckout": true
+    },
+    {
+      "itemId": 1621999563,
+      "skuId": 14618344,
+      "styleId": 2221365,
+      "title": "Moda Rapido Men White \u0026 Blue Ombre-Dyed Round Neck T-shirt",
+      "image": {},
+      "landingPageUrl": "Tshirts/Moda-Rapido/Moda-Rapido-Men-White--Blue-Ombre-Dyed-Round-Neck-T-shirt/2221365/buy",
+      "selectedSku": 14618344,
+      "quantity": 1,
+      "selectedSeller": {
+        "id": 47,
+        "name": "Vision Star",
+        "partnerId": 4215,
+        "supplyType": "ON_HAND",
+        "availableCount": 10,
+        "availableInWarehouses": "28,81,196,214,309"
+      },
+      "availableSizeMap": [
+        {
+          "size": "S",
+          "unifiedSize": "S",
+          "available": true,
+          "skuId": 14618343,
+          "storeId": 2297,
+          "supplyType": "ON_HAND",
+          "availableCount": 10,
+          "availableInWarehouses": "28,81,93,214,309,396",
+          "seller": {
+            "id": 47,
+            "name": "Vision Star",
+            "partnerId": 4215,
+            "availableCount": 0
+          }
+        },
+        {
+          "size": "M",
+          "unifiedSize": "M",
+          "available": true,
+          "skuId": 14618344,
+          "storeId": 2297,
+          "supplyType": "ON_HAND",
+          "availableCount": 10,
+          "availableInWarehouses": "28,81,196,214,309",
+          "seller": {
+            "id": 47,
+            "name": "Vision Star",
+            "partnerId": 4215,
+            "availableCount": 0
+          }
+        },
+        {
+          "size": "L",
+          "unifiedSize": "L",
+          "available": true,
+          "skuId": 14618345,
+          "storeId": 2297,
+          "supplyType": "ON_HAND",
+          "availableCount": 10,
+          "availableInWarehouses": "28,81,207,214,303",
+          "seller": {
+            "id": 47,
+            "name": "Vision Star",
+            "partnerId": 4215,
+            "availableCount": 0
+          }
+        },
+        {
+          "size": "XL",
+          "unifiedSize": "XL",
+          "available": true,
+          "skuId": 14618346,
+          "storeId": 2297,
+          "supplyType": "ON_HAND",
+          "availableCount": 10,
+          "availableInWarehouses": "81",
+          "seller": {
+            "id": 47,
+            "name": "Vision Star",
+            "partnerId": 4215,
+            "availableCount": 0
+          }
+        }
+      ],
+      "availableSizes": [
+        {
+          "size": "S",
+          "unifiedSize": "S",
+          "available": true,
+          "skuId": 14618343,
+          "storeId": 2297,
+          "availableCount": 10,
+          "availableSellers": [
+            {
+              "seller": {
+                "id": 47,
+                "name": "Vision Star",
+                "partnerId": 4215,
+                "supplyType": "ON_HAND",
+                "availableCount": 10,
+                "availableInWarehouses": "28,81,93,214,309,396"
+              },
+              "price": {
+                "mrp": 899.0,
+                "price": 449.0,
+                "discountText": "(50% OFF)"
+              }
+            }
+          ]
+        },
+        {
+          "size": "M",
+          "unifiedSize": "M",
+          "available": true,
+          "skuId": 14618344,
+          "storeId": 2297,
+          "availableCount": 10,
+          "availableSellers": [
+            {
+              "seller": {
+                "id": 47,
+                "name": "Vision Star",
+                "partnerId": 4215,
+                "supplyType": "ON_HAND",
+                "availableCount": 10,
+                "availableInWarehouses": "28,81,196,214,309"
+              },
+              "price": {
+                "mrp": 899.0,
+                "price": 449.0,
+                "discountText": "(50% OFF)"
+              }
+            }
+          ]
+        },
+        {
+          "size": "L",
+          "unifiedSize": "L",
+          "available": true,
+          "skuId": 14618345,
+          "storeId": 2297,
+          "availableCount": 10,
+          "availableSellers": [
+            {
+              "seller": {
+                "id": 47,
+                "name": "Vision Star",
+                "partnerId": 4215,
+                "supplyType": "ON_HAND",
+                "availableCount": 10,
+                "availableInWarehouses": "28,81,207,214,303"
+              },
+              "price": {
+                "mrp": 899.0,
+                "price": 449.0,
+                "discountText": "(50% OFF)"
+              }
+            }
+          ]
+        },
+        {
+          "size": "XL",
+          "unifiedSize": "XL",
+          "available": true,
+          "skuId": 14618346,
+          "storeId": 2297,
+          "availableCount": 10,
+          "availableSellers": [
+            {
+              "seller": {
+                "id": 47,
+                "name": "Vision Star",
+                "partnerId": 4215,
+                "supplyType": "ON_HAND",
+                "availableCount": 10,
+                "availableInWarehouses": "81"
+              },
+              "price": {
+                "mrp": 899.0,
+                "price": 449.0,
+                "discountText": "(50% OFF)"
+              }
+            }
+          ]
+        }
+      ],
+      "appliedCoupons": [],
+      "additionalInfo": {
+        "groupId": 0,
+        "brand": "Moda Rapido",
+        "articleTypeId": 90,
+        "articleTypeName": "Tshirts",
+        "productTypeId": 0,
+        "productStyleType": "P",
+        "gender": "Men",
+        "isFineJewellery": false,
+        "isHazmat": true,
+        "isFragile": false,
+        "isMyntsEnabled": true,
+        "tryAndBuyEnabled": true,
+        "pickupEnabled": true,
+        "codEnabled": true,
+        "isExchangeable": true,
+        "large": false,
+        "comforter": false,
+        "personalised": false,
+        "returnable": true,
+        "preOrderEnabled": false,
+        "preLaunchProduct": false,
+        "hsnCode": "61091000",
+        "packagingType": "NORMAL",
+        "freeItem": false,
+        "couponApplicable": false,
+        "systemAttributes": [
+          {
+            "attribute": "SA_XT_PICWORTHY",
+            "value": "PIC-WORTHY"
+          },
+          {
+            "attribute": "Custom_Label2",
+            "value": "SA_FD_Label2"
+          }
+        ],
+        "returnPeriod": 30
+      },
+      "price": {
+        "discounts": [
+          {
+            "name": "discount",
+            "value": 450.0,
+            "discountDetails": {
+              "unit": "PERCENT",
+              "value": 50.0
+            },
+            "effectiveDiscountValue": 0.0,
+            "effectiveDiscountDetails": {
+              "unit": "PERCENT",
+              "value": 0.0
+            }
+          },
+          {
+            "name": "coupon",
+            "value": 0.0,
+            "effectiveDiscountValue": 0.0
+          },
+          {
+            "name": "bag",
+            "value": 0.0,
+            "effectiveDiscountValue": 0.0
+          },
+          {
+            "name": "personalised",
+            "value": 0.0,
+            "discountDetails": {
+              "unit": "PERCENT",
+              "value": 0.0
+            },
+            "effectiveDiscountValue": 0.0
+          }
+        ],
+        "charges": [
+          {
+            "name": "tax",
+            "value": 0.0,
+            "chargeId": 5
+          },
+          {
+            "name": "mrp",
+            "value": 899.0,
+            "chargeId": 7
+          }
+        ],
+        "instruments": [
+          {
+            "name": "loyaltypoints",
+            "value": 0.0
+          },
+          {
+            "name": "giftcard",
+            "value": 0.0
+          }
+        ],
+        "mrp": 899.0,
+        "price": 449.0,
+        "effectiveExchangeItemPrice": 0.0,
+        "effectiveTotalPrice": 449.0,
+        "subTotalPrice": 449.0,
+        "priceWithInstruments": 449.0,
+        "loyaltyPointsConversionFactor": 1.0,
+        "unitAdditionalCharge": 0.0,
+        "unitDiscount": 450.0,
+        "unitCouponDiscount": 0.0,
+        "unitBagDiscount": 0.0,
+        "unitMrp": 899.0,
+        "loyaltyPointsUsage": 0.0,
+        "unitGiftCardUsage": 0.0,
+        "unitCashbackUsage": 0.0,
+        "totalSavings": 450.0,
+        "myntsDiscount": 0.0,
+        "unitPersonalisedDiscount": 0.0
+      },
+      "taxPercentage": 0.0,
+      "discountDataEntry": {
+        "discountId": 43579504,
+        "id": "Flat_Cart_P",
+        "discountRuleId": 44020448,
+        "discountRuleHistoryId": 0,
+        "discountType": 1,
+        "discountAmount": 450.0,
+        "discountPercent": 50.0,
+        "discountText": {
+          "text": "50% Off",
+          "hasFreeItem": false
+        },
+        "discountFunding": "category",
+        "fundingPercentage": 0.0,
+        "discountLimit": 0.0,
+        "isDiscountRuleApplied": true,
+        "isDiscountedProduct": true,
+        "discountQuantity": 1,
+        "params": {}
+      },
+      "itemAddTime": "May 25, 2021, 9:31:15 AM",
+      "conflict": {
+        "state": "NOT_CONFLICTED",
+        "oldPrice": 449.0,
+        "conflictTime": "Jan 1, 1970, 5:30:00 AM",
+        "price": {
+          "state": "NOT_CONFLICTED",
+          "oldPrice": 449.0,
+          "conflictTime": "Jan 1, 1970, 5:30:00 AM"
+        },
+        "seller": {
+          "state": "NOT_CONFLICTED"
+        }
+      },
+      "activeSlot": 0,
+      "urgencyEntry": {
+        "pdpCount": 194,
+        "pdpCountPtile": 99.75808151051545,
+        "addToCollectionCount": 13397,
+        "addToCollectionCountPtile": 99.99198400993355,
+        "addToCartCount": 795,
+        "addToCartCountPtile": 99.99490356901978,
+        "quantitySold": 210,
+        "quantitySoldPtile": 99.99577104663344
+      },
+      "tryAndBuyOpted": false,
+      "virtualBundleConflict": false,
+      "styleOffers": [],
+      "valueReturnApplicableDiscount": 0.0,
+      "valueReturnOpted": false,
+      "productServiceabilityInfo": {
+        "pincodeInfo": {
+          "serviceable": true,
+          "shippingEstimatesInDays": {
+            "standard": 3,
+            "valueShipping": 8
+          }
+        },
+        "tryNBuyAvailable": false,
+        "alterationAvailable": false
+      },
+      "selectedForCheckout": true
+    }
+  ],
+  "endlessAisleInfo": {},
+  "coupons": [],
+  "applicableCoupons": [],
+  "potentialCoupons": [],
+  "attachedProductOffers": {
+    "appliedOffers": [],
+    "applicableOffers": [],
+    "totalOfferAmount": 0.0
+  },
+  "price": {
+    "discounts": [
+      {
+        "name": "discount",
+        "value": 810.0,
+        "effectiveDiscountValue": 0.0
+      },
+      {
+        "name": "mynts",
+        "value": 0.0,
+        "effectiveDiscountValue": 0.0
+      },
+      {
+        "name": "coupon",
+        "value": 0.0,
+        "effectiveDiscountValue": 0.0
+      },
+      {
+        "name": "bag",
+        "value": 0.0,
+        "effectiveDiscountValue": 0.0
+      }
+    ],
+    "charges": [
+      {
+        "name": "tax",
+        "value": 0.0,
+        "chargeId": 5
+      },
+      {
+        "name": "donation",
+        "value": 100.0,
+        "appliedEntity": "PLATFORM",
+        "appliedEntityId": 11350,
+        "appliedOnEntityInfo": {
+          "appliedOnEntityType": "SKU",
+          "appliedOnEntityIds": []
+        },
+        "chargeId": 2080,
+        "sellerId": 11350,
+        "ownerInfo": {
+          "ownerId": 11350,
+          "ownerType": "PLATFORM"
+        },
+        "invoiceInfo": {
+          "chargeSku": 47534133,
+          "invoiceAt": "NO_INVOICE"
+        }
+      }
+    ],
+    "instruments": [
+      {
+        "name": "loyaltypoints",
+        "value": 0.0
+      },
+      {
+        "name": "giftcard",
+        "value": 0.0
+      }
+    ],
+    "mrp": 1698.0,
+    "price": 988.0,
+    "userAction": "PAY",
+    "effectiveExchangeItemPrice": 0.0,
+    "effectiveTotalPrice": 988.0,
+    "subTotalPrice": 888.0,
+    "priceWithInstruments": 988.0,
+    "loyaltyPointsConversionFactor": 1.0,
+    "totalSavings": 810.0,
+    "myntsDiscount": 0.0,
+    "unitPersonalisedDiscount": 0.0
+  },
+  "cartFlags": {
+    "loyaltyPointsApplicable": {
+      "value": true
+    },
+    "giftWrapApplicable": {
+      "value": true
+    },
+    "giftCardApplicable": {
+      "value": true
+    },
+    "tryNBuyApplicable": {
+      "value": false,
+      "remark": "UNSERVICEABLE"
+    },
+    "valueShippingApplicable": {
+      "value": false
+    },
+    "valueReturnApplicable": {
+      "value": false
+    },
+    "myntApplicable": {
+      "value": false
+    },
+    "coverFeeApplicable": {
+      "value": false,
+      "remark": "No Active CoverFee charge found for tenant 2297"
+    },
+    "codChargeApplicable": {
+      "value": false
+    }
+  },
+  "conflict": {
+    "state": "NOT_CONFLICTED",
+    "oldPrice": 0.0,
+    "price": {
+      "state": "NOT_CONFLICTED",
+      "oldPrice": 0.0
+    },
+    "seller": {
+      "state": "NOT_CONFLICTED"
+    }
+  },
+  "cartCreateDate": "May 24, 2021, 1:46:42 PM",
+  "lastmodified": "May 25, 2021, 9:31:16 AM",
+  "shippingData": {
+    "method": "NORMAL",
+    "shippingApplicableCharge": 99.0,
+    "shippingChargeLimit": 799.0
+  },
+  "useCashback": false,
+  "useGiftCard": false,
+  "codOpted": false,
+  "codApplicableCharge": 0.0,
+  "useLoyaltyPoints": true,
+  "giftorder": {
+    "active": false
+  },
+  "checkOutReady": true,
+  "checkoutNotReadyReason": {
+    "code": 100,
+    "reason": "ALL_OK"
+  },
+  "coverFeeOpted": false,
+  "coverFeeApplicableCharge": 0.0,
+  "userDetails": {
+    "uidx": "7d1e08e3.05b3.45b1.8512.9a868153568fsVw5TWbNId",
+    "returnAbuser": {
+      "level": "DEFAULT",
+      "type": "DEFAULT",
+      "showTnc": false
+    },
+    "email": {
+      "isFake": false
+    },
+    "cod": {
+      "minCod": 1.0,
+      "maxCod": 49999.0
+    },
+    "firstTimeCustomer": false,
+    "userSlotActive": false,
+    "isReturnAbuser": false,
+    "minCOD": 1.0,
+    "maxCOD": 49999.0,
+    "isFakeEmail": false
+  },
+  "cartMergeState": "NOT_MERGED",
+  "offers": [],
+  "virtualBundleConflict": false,
+  "totalCashbackUsageDecimal": 0.0,
+  "totalGiftCardUsageDecimal": 0.0,
+  "serviceability": {
+    "addressInfo": {
+      "country": {
+        "code": "IN",
+        "name": "India"
+      },
+      "pincode": "440010"
+    },
+    "serviceabilityFlags": {
+      "pincode": {
+        "value": true
+      },
+      "standardShipping": {
+        "value": true
+      },
+      "expressShipping": {
+        "value": false
+      },
+      "valueShipping": {
+        "value": false
+      },
+      "sddShipping": {
+        "value": false
+      }
+    },
+    "standardShippingInfo": {
+      "deliveryPromise": {
+        "minDays": 3,
+        "maxDays": 5,
+        "promiseTime": "May 30, 2021, 9:00:00 PM"
+      },
+      "cutOff": {
+        "timeInMinutes": 466200000,
+        "time": "May 25, 2021, 11:30:00 AM"
+      },
+      "flags": {
+        "cashOnDelivery": {
+          "value": true
+        },
+        "cardOnDelivery": {
+          "value": true
+        },
+        "tryNBuy": {
+          "value": false
+        }
+      }
+    },
+    "expressShippingInfo": {},
+    "valueShippingInfo": {},
+    "sddShippingInfo": {},
+    "productDeliveryInfo": [
+      {
+        "id": 37684698,
+        "shippingEstimatesInDays": {
+          "standard": 5
+        },
+        "image": {},
+        "tryNBuyInfo": {
+          "enabled": true,
+          "serviceable": false
+        }
+      },
+      {
+        "id": 14618344,
+        "shippingEstimatesInDays": {
+          "standard": 3
+        },
+        "image": {},
+        "tryNBuyInfo": {
+          "enabled": true,
+          "serviceable": false
+        }
+      }
+    ]
+  }
+}
